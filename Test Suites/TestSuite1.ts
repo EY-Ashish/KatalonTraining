@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>PurchaseProduct</name>
+   <name>TestSuite1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f17a2274-76e1-4d94-b0ad-cd4e4328af63</testSuiteGuid>
+   <testSuiteGuid>870244f0-c005-4eda-9f9e-e9a2b4f708d0</testSuiteGuid>
    <testCaseLink>
-      <guid>c954dad1-9722-47cf-9d74-9fc8958c45cd</guid>
+      <guid>e3b6e535-d80f-431b-93d5-77aa240c9755</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SwagLabCompleteFlow</testCaseId>
+      <testCaseId>Test Cases/TestCase1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
