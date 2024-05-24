@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite6,Edge Chromium 124,,,18-05-2024 18:09:37,18-05-2024 18:10:20,42.758s,PASSED
+,,,,,,,
+Test Cases/TestCase1,Edge Chromium 124,,,18-05-2024 18:09:37,18-05-2024 18:09:46,9.222s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:09:38,18-05-2024 18:09:45,7.446s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:09:45,18-05-2024 18:09:46,1.352s,PASSED
+,,,,,,,
+Test Cases/TestCase2,Edge Chromium 124,,,18-05-2024 18:09:46,18-05-2024 18:09:53,6.491s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:09:46,18-05-2024 18:09:52,5.227s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:09:52,18-05-2024 18:09:53,1.224s,PASSED
+,,,,,,,
+Test Cases/TestCase3,Edge Chromium 124,,,18-05-2024 18:09:53,18-05-2024 18:09:59,6.340s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:09:53,18-05-2024 18:09:58,5.092s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:09:58,18-05-2024 18:09:59,1.218s,PASSED
+,,,,,,,
+Test Cases/TestCase4,Edge Chromium 124,,,18-05-2024 18:09:59,18-05-2024 18:10:06,6.721s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:09:59,18-05-2024 18:10:05,5.456s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:10:05,18-05-2024 18:10:06,1.236s,PASSED
+,,,,,,,
+Test Cases/TestCase5,Edge Chromium 124,,,18-05-2024 18:10:06,18-05-2024 18:10:13,6.750s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:10:06,18-05-2024 18:10:11,5.457s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:10:11,18-05-2024 18:10:13,1.257s,PASSED
+,,,,,,,
+Test Cases/TestCase6,Edge Chromium 124,,,18-05-2024 18:10:13,18-05-2024 18:10:20,6.933s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:10:13,18-05-2024 18:10:18,5.664s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:10:18,18-05-2024 18:10:20,1.243s,PASSED

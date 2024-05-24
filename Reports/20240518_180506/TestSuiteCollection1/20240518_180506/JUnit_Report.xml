@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteCollection1" time="486.067" tests="55" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="1" failures="0" errors="0" time="12.64" skipped="0" timestamp="18-05-2024T18:05:38" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite1\\20240518_180507"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite1\\20240518_180507\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="eff63c23455cf238fba49d968ef2b9a9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="12.152" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:05:38 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:05:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:05:40 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:05:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:05:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:05:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:05:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:05:38 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/TestCase1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite10" tests="10" failures="0" errors="0" time="70.534" skipped="0" timestamp="18-05-2024T18:06:03" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite10">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite10\\20240518_180509"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite10\\20240518_180509\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="a47a624e0c008b0b3c08d2dc1a3df660"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="10.057" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:03 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:06:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:05 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase10" time="6.723" classname="Test Cases/TestCase10" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:13 - [TEST_CASE][PASSED] - Test Cases/TestCase10: Test Cases/TestCase10
+
+18-05-2024T18:06:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:13 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.641" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:20 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:06:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:20 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.792" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:27 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:06:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:27 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.356" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:34 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:06:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:34 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.776" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:40 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:06:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:40 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase7" time="6.672" classname="Test Cases/TestCase7" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:47 - [TEST_CASE][PASSED] - Test Cases/TestCase7: Test Cases/TestCase7
+
+18-05-2024T18:06:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:47 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:06:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase6" time="6.423" classname="Test Cases/TestCase6" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:06:53 - [TEST_CASE][PASSED] - Test Cases/TestCase6: Test Cases/TestCase6
+
+18-05-2024T18:06:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:06:53 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:06:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:06:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:06:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase8" time="6.854" classname="Test Cases/TestCase8" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:00 - [TEST_CASE][PASSED] - Test Cases/TestCase8: Test Cases/TestCase8
+
+18-05-2024T18:07:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:00 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase9" time="6.787" classname="Test Cases/TestCase9" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:07 - [TEST_CASE][PASSED] - Test Cases/TestCase9: Test Cases/TestCase9
+
+18-05-2024T18:07:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:07 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:06:03 - [TEST_SUITE][PASSED] - TestSuite10: Test Cases/TestCase9]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite2" tests="2" failures="0" errors="0" time="16.042" skipped="0" timestamp="18-05-2024T18:07:21" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite2\\20240518_180511"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite2\\20240518_180511\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="3e9d0409d8bb55a04a4e51a9e9098a3c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.057" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:22 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:07:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:23 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:31 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.693" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:31 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:07:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:31 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:07:21 - [TEST_SUITE][PASSED] - TestSuite2: Test Cases/TestCase2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite3" tests="3" failures="0" errors="0" time="22.332" skipped="0" timestamp="18-05-2024T18:07:45" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite3">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite3\\20240518_180513"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite3\\20240518_180513\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="bbd85e3b6b1862930dbe2e54008a05d9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.022" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:45 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:07:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:46 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:07:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.613" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:07:54 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:07:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:07:54 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:07:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:07:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:07:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.408" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:01 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:08:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:01 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:08:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:08:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:07:45 - [TEST_SUITE][PASSED] - TestSuite3: Test Cases/TestCase3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite4" tests="4" failures="0" errors="0" time="28.227" skipped="0" timestamp="18-05-2024T18:08:16" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite4">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite4\\20240518_180515"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite4\\20240518_180515\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="b753428f5d87ce90d511154bb87aa850"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.048" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:16 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:08:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:17 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:08:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:08:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.345" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:25 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:08:25 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:25 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:27 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:08:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:08:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.188" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:32 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:08:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:32 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:08:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:08:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.32" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:38 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:08:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:38 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:08:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:08:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:08:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:08:16 - [TEST_SUITE][PASSED] - TestSuite4: Test Cases/TestCase4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite5" tests="5" failures="0" errors="0" time="36.984" skipped="0" timestamp="18-05-2024T18:08:52" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite5">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite5\\20240518_180517"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite5\\20240518_180517\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="d7c099b7a01b45c35621c3b83b3285a9"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.328" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:08:52 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:08:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:08:54 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:08:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="7.048" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:02 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:09:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:02 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.705" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:09 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:09:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:09 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.757" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:16 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:09:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:16 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.807" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:22 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:09:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:22 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:08:52 - [TEST_SUITE][PASSED] - TestSuite5: Test Cases/TestCase5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite6" tests="6" failures="0" errors="0" time="42.758" skipped="0" timestamp="18-05-2024T18:09:37" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite6">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite6\\20240518_180519"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite6\\20240518_180519\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="11232c185b38662efbe9993c835b109e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.222" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:37 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:09:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:38 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:45 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.491" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:46 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:09:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:46 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.34" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:53 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:09:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:53 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:09:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:09:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:09:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:09:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.721" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:09:59 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:09:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:09:59 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.75" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:06 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:10:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:06 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase6" time="6.933" classname="Test Cases/TestCase6" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:13 - [TEST_CASE][PASSED] - Test Cases/TestCase6: Test Cases/TestCase6
+
+18-05-2024T18:10:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:13 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:09:37 - [TEST_SUITE][PASSED] - TestSuite6: Test Cases/TestCase6]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite7" tests="7" failures="0" errors="0" time="49.422" skipped="0" timestamp="18-05-2024T18:10:28" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite7">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite7\\20240518_180521"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite7\\20240518_180521\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="1224a0648004cfbf706c0c49c6aed6c0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.004" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:28 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:10:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:29 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:37 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.697" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:37 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:10:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:37 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.48" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:44 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:10:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:44 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.683" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:51 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:10:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:51 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:10:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:10:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:10:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.871" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:10:57 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:10:57 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:10:57 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:10:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase6" time="6.704" classname="Test Cases/TestCase6" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:04 - [TEST_CASE][PASSED] - Test Cases/TestCase6: Test Cases/TestCase6
+
+18-05-2024T18:11:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:04 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:10 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase7" time="6.652" classname="Test Cases/TestCase7" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:11 - [TEST_CASE][PASSED] - Test Cases/TestCase7: Test Cases/TestCase7
+
+18-05-2024T18:11:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:11 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:10:28 - [TEST_SUITE][PASSED] - TestSuite7: Test Cases/TestCase7]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite8" tests="8" failures="0" errors="0" time="56.31" skipped="0" timestamp="18-05-2024T18:11:25" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite8">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite8\\20240518_180523"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite8\\20240518_180523\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="7b73757bb6fb4615c36b62617d2b7c98"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.265" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:25 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:11:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:26 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.417" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:35 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:11:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:35 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.72" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:41 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:11:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:41 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:47 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.746" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:48 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:11:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:48 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:11:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:11:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:11:55 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.867" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:11:55 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:11:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:11:55 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:11:56 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase6" time="6.792" classname="Test Cases/TestCase6" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:02 - [TEST_CASE][PASSED] - Test Cases/TestCase6: Test Cases/TestCase6
+
+18-05-2024T18:12:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:02 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase7" time="6.647" classname="Test Cases/TestCase7" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:08 - [TEST_CASE][PASSED] - Test Cases/TestCase7: Test Cases/TestCase7
+
+18-05-2024T18:12:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:08 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase8" time="6.526" classname="Test Cases/TestCase8" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:15 - [TEST_CASE][PASSED] - Test Cases/TestCase8: Test Cases/TestCase8
+
+18-05-2024T18:12:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:15 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:11:25 - [TEST_SUITE][PASSED] - TestSuite8: Test Cases/TestCase8]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="TestSuite9" tests="9" failures="0" errors="0" time="63.113" skipped="0" timestamp="18-05-2024T18:12:29" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite9">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite9\\20240518_180525"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_180506\\TestSuite9\\20240518_180525\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="c33ba1619960f10e63ea5143d375c8eb"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="9.364" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:30 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T18:12:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:31 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="6.364" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:39 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T18:12:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:39 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="6.976" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:46 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T18:12:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:46 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" time="6.729" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:53 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+18-05-2024T18:12:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:53 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:12:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:12:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:12:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:12:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase5" time="6.482" classname="Test Cases/TestCase5" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:12:59 - [TEST_CASE][PASSED] - Test Cases/TestCase5: Test Cases/TestCase5
+
+18-05-2024T18:12:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:12:59 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:13:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:13:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:13:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:13:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase6" time="6.922" classname="Test Cases/TestCase6" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:13:06 - [TEST_CASE][PASSED] - Test Cases/TestCase6: Test Cases/TestCase6
+
+18-05-2024T18:13:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:13:06 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:13:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:13:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:13:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:13:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase7" time="6.835" classname="Test Cases/TestCase7" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:13:13 - [TEST_CASE][PASSED] - Test Cases/TestCase7: Test Cases/TestCase7
+
+18-05-2024T18:13:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:13:13 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:13:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:13:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:13:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:13:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase8" time="6.629" classname="Test Cases/TestCase8" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:13:20 - [TEST_CASE][PASSED] - Test Cases/TestCase8: Test Cases/TestCase8
+
+18-05-2024T18:13:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:13:20 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:13:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:13:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:13:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:13:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase9" time="6.435" classname="Test Cases/TestCase9" status="PASSED">
+         <system-out><![CDATA[18-05-2024T18:13:26 - [TEST_CASE][PASSED] - Test Cases/TestCase9: Test Cases/TestCase9
+
+18-05-2024T18:13:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T18:13:26 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T18:13:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T18:13:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T18:13:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T18:13:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T18:12:29 - [TEST_SUITE][PASSED] - TestSuite9: Test Cases/TestCase9]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

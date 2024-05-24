@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite5,,,,24-05-2024 12:22:15,24-05-2024 12:22:59,43.868s,FAILED
+,,,,,,,
+Test Cases/TestCase1,,,,24-05-2024 12:22:26,24-05-2024 12:22:28,2.044s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:22:26,24-05-2024 12:22:28,2.012s,FAILED
+,,,,,,,
+Test Cases/TestCase2,,,,24-05-2024 12:22:33,24-05-2024 12:22:35,1.680s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:22:33,24-05-2024 12:22:35,1.661s,FAILED
+,,,,,,,
+Test Cases/TestCase3,,,,24-05-2024 12:22:41,24-05-2024 12:22:43,1.954s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:22:41,24-05-2024 12:22:43,1.926s,FAILED
+,,,,,,,
+Test Cases/TestCase4,,,,24-05-2024 12:22:49,24-05-2024 12:22:51,2.011s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:22:49,24-05-2024 12:22:51,1.987s,FAILED
+,,,,,,,
+Test Cases/TestCase5,,,,24-05-2024 12:22:57,24-05-2024 12:22:59,1.794s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:22:57,24-05-2024 12:22:59,1.771s,FAILED

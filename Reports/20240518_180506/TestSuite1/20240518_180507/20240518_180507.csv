@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Edge Chromium 124,,,18-05-2024 18:05:38,18-05-2024 18:05:50,12.640s,PASSED
+,,,,,,,
+Test Cases/TestCase1,Edge Chromium 124,,,18-05-2024 18:05:38,18-05-2024 18:05:50,12.152s,PASSED
+"openBrowser("""")",Edge Chromium 124,,,18-05-2024 18:05:39,18-05-2024 18:05:49,9.773s,PASSED
+closeBrowser(),Edge Chromium 124,,,18-05-2024 18:05:49,18-05-2024 18:05:50,1.463s,PASSED

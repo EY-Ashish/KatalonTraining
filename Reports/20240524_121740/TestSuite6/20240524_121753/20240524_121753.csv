@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite6,,,,24-05-2024 12:23:11,24-05-2024 12:24:13,1m - 2.792s,FAILED
+,,,,,,,
+Test Cases/TestCase1,,,,24-05-2024 12:23:29,24-05-2024 12:23:31,2.324s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:23:29,24-05-2024 12:23:31,2.262s,FAILED
+,,,,,,,
+Test Cases/TestCase2,,,,24-05-2024 12:23:38,24-05-2024 12:23:40,1.983s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:23:39,24-05-2024 12:23:40,1.930s,FAILED
+,,,,,,,
+Test Cases/TestCase3,,,,24-05-2024 12:23:47,24-05-2024 12:23:49,1.955s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:23:47,24-05-2024 12:23:49,1.903s,FAILED
+,,,,,,,
+Test Cases/TestCase4,,,,24-05-2024 12:23:56,24-05-2024 12:23:58,2.234s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:23:56,24-05-2024 12:23:58,2.183s,FAILED
+,,,,,,,
+Test Cases/TestCase5,,,,24-05-2024 12:24:05,24-05-2024 12:24:06,1.646s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:24:05,24-05-2024 12:24:06,1.625s,FAILED
+,,,,,,,
+Test Cases/TestCase6,,,,24-05-2024 12:24:12,24-05-2024 12:24:13,1.727s,FAILED
+"openBrowser("""")",,,,24-05-2024 12:24:12,24-05-2024 12:24:13,1.703s,FAILED

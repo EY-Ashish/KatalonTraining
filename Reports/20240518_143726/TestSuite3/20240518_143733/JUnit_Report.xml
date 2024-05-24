@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite3" time="85.546" tests="3" failures="0" errors="0">
+   <testsuite name="TestSuite3" tests="3" failures="0" errors="0" time="85.546" skipped="0" timestamp="18-05-2024T14:38:29" hostname="EC682SV - IN3514483W1.ey.net" id="Test Suites/TestSuite3">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_143726\\TestSuite3\\20240518_143733"/>
+         <property name="logFiles" value="C:\\Users\\EC682SV\\git\\KatalonTraining\\Reports\\20240518_143726\\TestSuite3\\20240518_143733\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="EC682SV - IN3514483W1.ey.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Edge Chromium 124"/>
+         <property name="hostAddress" value="192.168.1.3"/>
+         <property name="sessionId" value="6f45f4d02b4bb17da1e7584ffe4203e3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase1" time="50.427" classname="Test Cases/TestCase1" status="PASSED">
+         <system-out><![CDATA[18-05-2024T14:38:30 - [TEST_CASE][PASSED] - Test Cases/TestCase1: Test Cases/TestCase1
+
+18-05-2024T14:38:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T14:38:33 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T14:38:48 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T14:39:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T14:39:04 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T14:39:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase2" time="21.411" classname="Test Cases/TestCase2" status="PASSED">
+         <system-out><![CDATA[18-05-2024T14:39:20 - [TEST_CASE][PASSED] - Test Cases/TestCase2: Test Cases/TestCase2
+
+18-05-2024T14:39:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T14:39:21 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T14:39:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T14:39:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T14:39:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T14:39:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase3" time="12.49" classname="Test Cases/TestCase3" status="PASSED">
+         <system-out><![CDATA[18-05-2024T14:39:42 - [TEST_CASE][PASSED] - Test Cases/TestCase3: Test Cases/TestCase3
+
+18-05-2024T14:39:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-05-2024T14:39:42 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+18-05-2024T14:39:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-05-2024T14:39:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-05-2024T14:39:53 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-05-2024T14:39:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-05-2024T14:38:29 - [TEST_SUITE][PASSED] - TestSuite3: Test Cases/TestCase3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
