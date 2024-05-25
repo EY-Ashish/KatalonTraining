@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyInvalidLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>439c68ad-ffd0-48b8-9fe6-ce90523db996</testCaseGuid>
+</TestCaseEntity>
