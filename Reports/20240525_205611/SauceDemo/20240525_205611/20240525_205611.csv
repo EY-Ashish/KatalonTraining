@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SauceDemo,,,,25-05-2024 20:56:19,25-05-2024 20:56:43,24.451s,FAILED
+,,,,,,,
+Test Cases/verifyLoginBtn,,,,25-05-2024 20:56:22,25-05-2024 20:56:23,0.520s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:22,25-05-2024 20:56:23,0.480s,FAILED
+,,,,,,,
+Test Cases/verifyTitle,,,,25-05-2024 20:56:25,25-05-2024 20:56:25,0.510s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:25,25-05-2024 20:56:25,0.410s,FAILED
+,,,,,,,
+Test Cases/verifyURL,,,,25-05-2024 20:56:27,25-05-2024 20:56:28,0.839s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:28,25-05-2024 20:56:28,0.693s,FAILED
+,,,,,,,
+Test Cases/verifyUsername,,,,25-05-2024 20:56:30,25-05-2024 20:56:30,0.527s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:30,25-05-2024 20:56:30,0.498s,FAILED
+,,,,,,,
+Test Cases/verifyPassword,,,,25-05-2024 20:56:32,25-05-2024 20:56:32,0.363s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:32,25-05-2024 20:56:32,0.337s,FAILED
+,,,,,,,
+Test Cases/VerifyLogin,,,,25-05-2024 20:56:34,25-05-2024 20:56:34,0.368s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:34,25-05-2024 20:56:34,0.336s,FAILED
+,,,,,,,
+Test Cases/VerifyInvalidLogin,,,,25-05-2024 20:56:35,25-05-2024 20:56:36,0.309s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:35,25-05-2024 20:56:36,0.283s,FAILED
+,,,,,,,
+Test Cases/VerifyBlankPassword,,,,25-05-2024 20:56:37,25-05-2024 20:56:37,0.366s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:37,25-05-2024 20:56:37,0.338s,FAILED
+,,,,,,,
+Test Cases/verifyBlankUsernamePassword,,,,25-05-2024 20:56:39,25-05-2024 20:56:39,0.412s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:39,25-05-2024 20:56:39,0.383s,FAILED
+,,,,,,,
+Test Cases/verifyTwitterLink,,,,25-05-2024 20:56:41,25-05-2024 20:56:41,0.374s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:41,25-05-2024 20:56:41,0.348s,FAILED
+,,,,,,,
+Test Cases/verifyFacebookLink,,,,25-05-2024 20:56:43,25-05-2024 20:56:43,0.403s,FAILED
+"openBrowser("""")",,,,25-05-2024 20:56:43,25-05-2024 20:56:43,0.372s,FAILED

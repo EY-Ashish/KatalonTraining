@@ -1,0 +1,85 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SauceDemo,Edge Chromium 125,,,25-05-2024 20:46:58,25-05-2024 20:49:36,2m - 38.249s,PASSED
+,,,,,,,
+Test Cases/verifyLoginBtn,Edge Chromium 125,,,25-05-2024 20:46:58,25-05-2024 20:47:13,14.651s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:46:58,25-05-2024 20:47:07,8.305s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:07,25-05-2024 20:47:11,4.675s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""), 0)",Edge Chromium 125,,,25-05-2024 20:47:11,25-05-2024 20:47:12,0.723s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:47:12,25-05-2024 20:47:13,0.497s,PASSED
+,,,,,,,
+Test Cases/verifyTitle,Edge Chromium 125,,,25-05-2024 20:47:13,25-05-2024 20:47:25,12.855s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:47:13,25-05-2024 20:47:20,6.748s,PASSED
+"navigateToUrl(""http://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:20,25-05-2024 20:47:25,5.216s,PASSED
+title = getWindowTitle(),Edge Chromium 125,,,25-05-2024 20:47:25,25-05-2024 20:47:25,0.074s,PASSED
+"verifyEqual(title, ""Swag Labs"")",Edge Chromium 125,,,25-05-2024 20:47:25,25-05-2024 20:47:25,0.124s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:47:25,25-05-2024 20:47:25,0.471s,PASSED
+,,,,,,,
+Test Cases/verifyURL,Edge Chromium 125,,,25-05-2024 20:47:26,25-05-2024 20:47:39,13.130s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:47:26,25-05-2024 20:47:33,6.962s,PASSED
+"navigateToUrl(""http://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:33,25-05-2024 20:47:38,5.219s,PASSED
+url = getUrl(),Edge Chromium 125,,,25-05-2024 20:47:38,25-05-2024 20:47:38,0.070s,PASSED
+"verifyEqual(url, ""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:38,25-05-2024 20:47:38,0.005s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:47:38,25-05-2024 20:47:39,0.657s,PASSED
+,,,,,,,
+Test Cases/verifyUsername,Edge Chromium 125,,,25-05-2024 20:47:39,25-05-2024 20:47:52,13.115s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:47:39,25-05-2024 20:47:46,7.209s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:46,25-05-2024 20:47:51,4.623s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Swag Labs/div_Accepted usernames are                s_40dcc1""), 0)",Edge Chromium 125,,,25-05-2024 20:47:51,25-05-2024 20:47:51,0.470s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:47:51,25-05-2024 20:47:52,0.563s,PASSED
+,,,,,,,
+Test Cases/verifyPassword,Edge Chromium 125,,,25-05-2024 20:47:52,25-05-2024 20:48:04,12.465s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:47:52,25-05-2024 20:47:59,6.637s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:47:59,25-05-2024 20:48:03,4.689s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Swag Labs/div_Password for all users                s_477655""), 0)",Edge Chromium 125,,,25-05-2024 20:48:03,25-05-2024 20:48:04,0.428s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:48:04,25-05-2024 20:48:04,0.542s,PASSED
+,,,,,,,
+Test Cases/VerifyLogin,Edge Chromium 125,,,25-05-2024 20:48:04,25-05-2024 20:48:21,16.385s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:48:04,25-05-2024 20:48:11,6.918s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:48:11,25-05-2024 20:48:16,4.620s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""standard_user"")",Edge Chromium 125,,,25-05-2024 20:48:16,25-05-2024 20:48:17,1.058s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Edge Chromium 125,,,25-05-2024 20:48:17,25-05-2024 20:48:18,0.699s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:48:18,25-05-2024 20:48:19,1.551s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Swag Labs/div_Products""), ""Products"")",Edge Chromium 125,,,25-05-2024 20:48:19,25-05-2024 20:48:20,0.480s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:48:20,25-05-2024 20:48:21,0.886s,PASSED
+,,,,,,,
+Test Cases/VerifyInvalidLogin,Edge Chromium 125,,,25-05-2024 20:48:21,25-05-2024 20:48:37,16.190s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:48:21,25-05-2024 20:48:28,7.458s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:48:28,25-05-2024 20:48:33,4.953s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""standard_user"")",Edge Chromium 125,,,25-05-2024 20:48:33,25-05-2024 20:48:34,0.957s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""wwqXy82vnkA="")",Edge Chromium 125,,,25-05-2024 20:48:34,25-05-2024 20:48:35,0.678s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:48:35,25-05-2024 20:48:35,0.506s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Swag Labs/h3_Epic sadface Username and password do no_0e8909""), ""Epic sadface: Username and password do not match any user in this service"")",Edge Chromium 125,,,25-05-2024 20:48:35,25-05-2024 20:48:36,0.534s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:48:36,25-05-2024 20:48:37,0.909s,PASSED
+,,,,,,,
+Test Cases/VerifyBlankPassword,Edge Chromium 125,,,25-05-2024 20:48:37,25-05-2024 20:48:51,14.368s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:48:37,25-05-2024 20:48:44,6.963s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:48:44,25-05-2024 20:48:49,4.657s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""standard_user"")",Edge Chromium 125,,,25-05-2024 20:48:49,25-05-2024 20:48:50,0.919s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:48:50,25-05-2024 20:48:50,0.464s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Swag Labs/h3_Epic sadface Password is required""), ""Epic sadface: Password is required"")",Edge Chromium 125,,,25-05-2024 20:48:50,25-05-2024 20:48:51,0.561s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:48:51,25-05-2024 20:48:51,0.632s,PASSED
+,,,,,,,
+Test Cases/verifyBlankUsernamePassword,Edge Chromium 125,,,25-05-2024 20:48:51,25-05-2024 20:49:04,13.224s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:48:51,25-05-2024 20:48:58,6.845s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:48:58,25-05-2024 20:49:03,4.747s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:49:03,25-05-2024 20:49:03,0.548s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Swag Labs/h3_Epic sadface Username is required""), ""Epic sadface: Username is required"")",Edge Chromium 125,,,25-05-2024 20:49:03,25-05-2024 20:49:04,0.460s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:49:04,25-05-2024 20:49:04,0.485s,PASSED
+,,,,,,,
+Test Cases/verifyTwitterLink,Edge Chromium 125,,,25-05-2024 20:49:04,25-05-2024 20:49:20,15.745s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:49:05,25-05-2024 20:49:11,6.864s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:49:11,25-05-2024 20:49:16,4.701s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""problem_user"")",Edge Chromium 125,,,25-05-2024 20:49:16,25-05-2024 20:49:17,1.018s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Edge Chromium 125,,,25-05-2024 20:49:17,25-05-2024 20:49:18,0.650s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:49:18,25-05-2024 20:49:19,0.737s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Swag Labs/li_Twitter""), 0)",Edge Chromium 125,,,25-05-2024 20:49:19,25-05-2024 20:49:19,0.504s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:49:19,25-05-2024 20:49:20,1.126s,PASSED
+,,,,,,,
+Test Cases/verifyFacebookLink,Edge Chromium 125,,,25-05-2024 20:49:20,25-05-2024 20:49:36,15.758s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,25-05-2024 20:49:20,25-05-2024 20:49:28,7.292s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,25-05-2024 20:49:28,25-05-2024 20:49:32,4.584s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_db77ac""), ""problem_user"")",Edge Chromium 125,,,25-05-2024 20:49:32,25-05-2024 20:49:33,0.934s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_3423e9""), ""qcu24s4901FyWDTwXGr6XA=="")",Edge Chromium 125,,,25-05-2024 20:49:33,25-05-2024 20:49:34,0.550s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71""))",Edge Chromium 125,,,25-05-2024 20:49:34,25-05-2024 20:49:34,0.737s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Swag Labs/li_Facebook""), 0)",Edge Chromium 125,,,25-05-2024 20:49:34,25-05-2024 20:49:35,0.466s,PASSED
+closeBrowser(),Edge Chromium 125,,,25-05-2024 20:49:35,25-05-2024 20:49:36,0.992s,PASSED
