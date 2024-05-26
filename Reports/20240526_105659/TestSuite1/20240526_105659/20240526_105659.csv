@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite1,Edge Chromium 125,,,26-05-2024 10:57:09,26-05-2024 10:57:50,41.635s,PASSED
+,,,,,,,
+Test Cases/verifyCheckpoint,Edge Chromium 125,,,26-05-2024 10:57:09,26-05-2024 10:57:50,41.046s,PASSED
+"openBrowser("""")",Edge Chromium 125,,,26-05-2024 10:57:11,26-05-2024 10:57:33,22.651s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Edge Chromium 125,,,26-05-2024 10:57:33,26-05-2024 10:57:43,9.234s,PASSED
+"takeScreenshotAsCheckpoint(""loginPage"")",Edge Chromium 125,,,26-05-2024 10:57:43,26-05-2024 10:57:47,4.193s,PASSED
+closeBrowser(),Edge Chromium 125,,,26-05-2024 10:57:47,26-05-2024 10:57:50,3.391s,PASSED

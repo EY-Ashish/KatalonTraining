@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CheckpointSuite,Chrome 125.0.0.0,,,26-05-2024 10:54:45,26-05-2024 10:54:58,12.770s,PASSED
+,,,,,,,
+Test Cases/verifyCheckpoint,Chrome 125.0.0.0,,,26-05-2024 10:54:46,26-05-2024 10:54:58,11.951s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,26-05-2024 10:54:47,26-05-2024 10:54:55,8.469s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/v1/"")",Chrome 125.0.0.0,,,26-05-2024 10:54:55,26-05-2024 10:54:56,0.860s,PASSED
+"takeScreenshotAsCheckpoint(""loginPage"")",Chrome 125.0.0.0,,,26-05-2024 10:54:56,26-05-2024 10:54:57,1.073s,PASSED
+closeBrowser(),Chrome 125.0.0.0,,,26-05-2024 10:54:57,26-05-2024 10:54:58,0.527s,PASSED
